@@ -1,0 +1,26 @@
+body{
+    margin: 0px;
+    padding: 0;
+    max-width: 2110px;
+    max-height: 720px;
+    font-family: 'Poppins', sans-serif;
+    display: center;
+    align-items: center;
+    justify-content: center;
+    height: 500vh;
+
+    text-align: justify;
+
+    background: rgb(0, 0, 0);
+}
+p{
+    font-size: 7px;
+    line-height: 7px;
+    background-image: url(mylove.jpg);
+    background-attachment: center;
+    -webkit-background-size: 100% 100%;
+    background-repeat:no-repeat;
+    background-position: center;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: rgba(255, 255, 255, 0);
+}
